@@ -11,6 +11,8 @@
 // import FetchApi from './validation form and api fetch/FetchApi';
 // import Form from './validation form and api fetch/Form';
 
+import AddNumbers from "./add two numbers and disable button/AddNumbers";
+import Disable from "./add two numbers and disable button/Disable";
 import Main from "./global context and routing/Main";
 import Parentcomponent from "./global context and routing/Parentcomponent";
 
@@ -32,6 +34,8 @@ function App() {
         {/* <Form /> */}
         {/* <Main /> */}
         {/* <Parentcomponent/> */}
+        {/* <Disable /> */}
+        {/* <AddNumbers/> */}
     </>
   );
 }
