@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.special-text{
+    color: white;
+    background: rebeccapurple;
+    font-size: large;
+}

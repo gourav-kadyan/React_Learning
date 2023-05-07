@@ -19,6 +19,8 @@ import Main from "./global context and routing/Main";
 import Parentcomponent from "./global context and routing/Parentcomponent";
 import Calculator from "./hide element and calculator/Calculator";
 import HideElementOnClick from "./hide element and calculator/HideElementOnClick";
+import ExampleComponent from "./lifecycle and css styling/ExampleComponent";
+import Style from "./lifecycle and css styling/Style";
 
 
 
@@ -44,7 +46,8 @@ function App() {
         {/* <Calculator/> */}
         {/* <Dashboard /> */}
         {/* <Below /> */}
-        
+        {/* <ExampleComponent /> */}
+        <Style />
     </>
   );
 }
