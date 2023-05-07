@@ -13,6 +13,8 @@
 
 import AddNumbers from "./add two numbers and disable button/AddNumbers";
 import Disable from "./add two numbers and disable button/Disable";
+import Below from "./below the form and dashboard/Below";
+import Dashboard from "./below the form and dashboard/Dashboard";
 import Main from "./global context and routing/Main";
 import Parentcomponent from "./global context and routing/Parentcomponent";
 import Calculator from "./hide element and calculator/Calculator";
@@ -39,7 +41,10 @@ function App() {
         {/* <Disable /> */}
         {/* <AddNumbers/> */}
         {/* <HideElementOnClick/> */}
-        <Calculator/>
+        {/* <Calculator/> */}
+        {/* <Dashboard /> */}
+        {/* <Below /> */}
+        
     </>
   );
 }
