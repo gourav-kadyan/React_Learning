@@ -8,6 +8,9 @@
 // import Accordian from './print list item and accordion /Accordian';
 import Checklist from './checklist and image slider/Checklist';
 import ImageSlider from './checklist and image slider/ImageSlider';
+import FetchApi from './validation form and api fetch/FetchApi';
+import Form from './validation form and api fetch/Form';
+
 
 function App() {
   return (
@@ -20,7 +23,9 @@ function App() {
         {/* <PrintListItemOnDisplay/> */}
         {/* <Accordian/> */}
         {/* <ImageSlider /> */}
-        <Checklist />
+        {/* <Checklist /> */}
+        {/* <FetchApi /> */}
+        <Form />
     </>
   );
 }
