@@ -15,6 +15,8 @@ import AddNumbers from "./add two numbers and disable button/AddNumbers";
 import Disable from "./add two numbers and disable button/Disable";
 import Main from "./global context and routing/Main";
 import Parentcomponent from "./global context and routing/Parentcomponent";
+import Calculator from "./hide element and calculator/Calculator";
+import HideElementOnClick from "./hide element and calculator/HideElementOnClick";
 
 
 
@@ -36,6 +38,8 @@ function App() {
         {/* <Parentcomponent/> */}
         {/* <Disable /> */}
         {/* <AddNumbers/> */}
+        {/* <HideElementOnClick/> */}
+        <Calculator/>
     </>
   );
 }
