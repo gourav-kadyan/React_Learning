@@ -11,18 +11,18 @@
 // import FetchApi from './validation form and api fetch/FetchApi';
 // import Form from './validation form and api fetch/Form';
 
-import AddNumbers from "./add two numbers and disable button/AddNumbers";
-import Disable from "./add two numbers and disable button/Disable";
-import Below from "./below the form and dashboard/Below";
-import Dashboard from "./below the form and dashboard/Dashboard";
-import Main from "./global context and routing/Main";
-import Parentcomponent from "./global context and routing/Parentcomponent";
-import Calculator from "./hide element and calculator/Calculator";
-import HideElementOnClick from "./hide element and calculator/HideElementOnClick";
-import LeftBlank from "./left blank and create Element use in list/LeftBlank";
-import NameList from "./left blank and create Element use in list/NameList";
-import ExampleComponent from "./lifecycle and css styling/ExampleComponent";
-import Style from "./lifecycle and css styling/Style";
+// import AddNumbers from "./add two numbers and disable button/AddNumbers";
+// import Disable from "./add two numbers and disable button/Disable";
+// import Below from "./below the form and dashboard/Below";
+// import Dashboard from "./below the form and dashboard/Dashboard";
+// import Main from "./global context and routing/Main";
+// import Parentcomponent from "./global context and routing/Parentcomponent";
+// import Calculator from "./hide element and calculator/Calculator";
+// import HideElementOnClick from "./hide element and calculator/HideElementOnClick";
+// import LeftBlank from "./left blank and create Element use in list/LeftBlank";
+// import NameList from "./left blank and create Element use in list/NameList";
+// import ExampleComponent from "./lifecycle and css styling/ExampleComponent";
+// import Style from "./lifecycle and css styling/Style";
 
 
 
